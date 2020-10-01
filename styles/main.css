@@ -1,0 +1,22 @@
+.long {
+    min-height:500px;
+}
+
+a:visited {
+    text-decoration: line-through;
+    font-size:0.25em;
+}
+
+a:hover {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+div.imgcontainer {
+    max-width: 40px;
+    display:inline-block
+}
+
+div.imgcontainer img {
+    width:100;
+}
